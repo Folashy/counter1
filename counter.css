@@ -1,0 +1,21 @@
+  body {
+    position: absolute;
+    left: 0%;
+    text-align: center;
+  }
+  
+
+  #buttoncounter {
+    height: 46px;
+    width: auto;
+    padding: 3px;
+    margin: 2px;
+    max-width: 300px;
+    background-color: #555555;
+    align-content: center;
+  }
+
+  button:hover {
+    background-color: darkblue;
+    color: grey;
+  }
